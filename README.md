@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ i really like open source
 - 📫 How to reach me original.ahmerd@gmail.com 
+- ⌨️ reverse-engineer
 
 <!---
 ahmerd-original/ahmerd-original is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
