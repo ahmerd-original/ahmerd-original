@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmerd-original
 - 👀 I’m interested in ... java python smali javascript django low level stuff
-- 🌱 I’m currently learning C#
+- 🌱 I’m learning new things
 - 💞️ i really like open source
 - 📫 How to reach me original.ahmerd@gmail.com 
 - ⌨️ reverse-engineer
